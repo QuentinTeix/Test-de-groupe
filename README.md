@@ -1,3 +1,3 @@
 # Test-de-groupe
-Aller on s'amuuuse
+Aller on s'amuse
 beaucoup beaucoup trop !!!
