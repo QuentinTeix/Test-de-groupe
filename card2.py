@@ -21,7 +21,7 @@ class Card:
         self.couleur = couleur
         self.valeur = valeur
         self.points = 0
-
+#PAS TOUCHE A CETTE LIGNE
     def __str__(self):
         if self.couleur == 0:
             s = "COEUR"
